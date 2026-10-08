@@ -1,11 +1,11 @@
 {
-  "versionCode": "140039",
-  "versionName": "14.0.39",
-  "downloadLink": "https://example.com/downloads/my_app_v1.0.1.apk",
+  "versionCode": "140043",
+  "versionName": "14.0.43",
+  "downloadLink": "https://2022tech.blogspot.com/2026/09/adm-pro-android.html",
   "forceUpdate": false,
   "Title": "Awesome New Features!",
   "Msg": "We've listened to your feedback and made some significant improvements:\n\n- Dark Mode support added.\n- Faster loading times.\n- Improved stability and bug fixes.",
-  "updateSize": "30.5 MB",
-  "releaseDate": "2023-10-27",
+  "updateSize": "29.52M",
+  "releaseDate": "2026-10-08",
   "priority": "high"
 }
